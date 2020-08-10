@@ -1,0 +1,19 @@
+{
+  "name": "yummy-burger",
+  "version": "1.0.0",
+  "description": "Yummy Burger App - Node Express Handlebars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianapulatova/yummy-burger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dianapulatova/yummy-burger/issues"
+  },
+  "homepage": "https://github.com/dianapulatova/yummy-burger#readme"
+}
