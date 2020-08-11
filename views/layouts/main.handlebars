@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="/assets/css/burger_style.css" type="text/css" />
+	<title>Exotic Burgers!</title>
+	<script src="https://code.jquery.com/jquery.js"></script>
+	<script src="/assets/js/burgers.js"></script>
+</head>
+
+<body>
+	{{{ body }}}
+    {{!--  --}}
+      
+<li>
+	{{name}}
+	{{#unless devoured}}
+	<button class="change-devoured" data-id="{{id}}" data-newdevoured="{{devoured}}">
+		Devour
+	</button>
+	{{/unless}}
+
+	{{!-- Add a button if you want to restock a burger that has been devoured --}}
+	{{#if devoured}}
+	<button class="change-devoured" data-id="{{id}}" data-newdevoured="{{devoured}}">
+		Re-Stock
+	</button>
+	{{/if}}
+</li>
+    {{!--  --}}
+
+</body>
+
+</html>
