@@ -4,3 +4,5 @@ INSERT INTO burgers (burger_name) VALUES ('Afruza');
 INSERT INTO burgers (burger_name) VALUES ('SultonAli');
 INSERT INTO burgers (burger_name) VALUES ('MuhammadAli');
 INSERT INTO burgers (burger_name) VALUES ('Kamronbek');
+
+SELECT * FROM burgers;
