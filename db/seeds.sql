@@ -1,8 +1,8 @@
-INSERT INTO burgers (burger_name) VALUES ('Shahruz');
-INSERT INTO burgers (burger_name) VALUES ('Shirin');
-INSERT INTO burgers (burger_name) VALUES ('Afruza');
-INSERT INTO burgers (burger_name) VALUES ('SultonAli');
-INSERT INTO burgers (burger_name) VALUES ('MuhammadAli');
-INSERT INTO burgers (burger_name) VALUES ('Kamronbek');
+INSERT INTO burgers (burger_name) VALUES ('Ramen Burger');
+INSERT INTO burgers (burger_name) VALUES ('Big Blue Bacon');
+INSERT INTO burgers (burger_name) VALUES ('db Burger');
+INSERT INTO burgers (burger_name) VALUES ('Fire Eater Burger');
+INSERT INTO burgers (burger_name) VALUES ('Antelope Burger');
+INSERT INTO burgers (burger_name) VALUES ('Akaushi Cheeseburger');
 
 SELECT * FROM burgers;
