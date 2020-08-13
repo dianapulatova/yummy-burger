@@ -1,4 +1,4 @@
-# yummy-burger
+
 
 
 #  Yummy Burger App - Node Express Handlebars
@@ -9,7 +9,7 @@
   ![GitHub license](https://img.shields.io/badge/license-Creative%20Commons%20Zero%20v1.0%20Universal-blue.svg)
 
   ## Description
- Add that lets users input the burgers of their choice and submit the name and that name should be displayed on the waiting to be devaured side. 
+ Yummy Burger App lets users input the burgers of their choice and submit the name and that name should be displayed on the waiting to be devaured side. After clicking devaur button it moves to Burger devaured side, and it stores all the burgers in a database whether it is devoured or not. 
 
   <!-- ![Demo](Demo/note-taker-demo.gif) -->
 
