@@ -11,13 +11,8 @@
   ## Description
  Yummy Burger App lets users input the burgers of their choice and submit the name and that name should be displayed on the waiting to be devaured side. After clicking devaur button it moves to Burger devaured side, and it stores all the burgers in a database whether it is devoured or not. 
 
-  <!-- ![Demo](Demo/note-taker-demo.gif) -->
+  ![Demo](public/assets/img/YUMMY-BURGER.gif)
 
-
-
-
-
- 
 
 
   ## Table of Contents
