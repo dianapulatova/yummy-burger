@@ -1,21 +1,25 @@
 body {
     background-image: url("https://wallpaperaccess.com/full/1312732.jpg")
+    
   }
  h1 {
-   color: white;
+   color: 	
+#FF7F50;
  }
  h2 {
-   color: white;
+   color: 	
+#FF7F50;
  }
  .form-group {
-   color: white;
+   color: 	
+#FF7F50;
  }
 
   
   li {
     padding: 5px;
     margin: 5px;
-    background: #faebd7;
+    background: #d1ceca;
   }
   
   .label {
