@@ -3,12 +3,9 @@ const mysql = require("mysql");
 var connection;
 
 if (process.env.JAWSDB_URL) {
-  //for heroku
   connection = mysql.createConnection(process.env.JAWSDB_URL);
 } else {
-  //personal database
-  // connection = mysql.createConnection(process.env.DB_URL);
-  // require("dotenv").config();
+  
   connection = mysql.createConnection({
     host: process.env.DB_HOST,
       port:process.env.DB_PORT,
